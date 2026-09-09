@@ -2,17 +2,25 @@
 
 React와 React Native를 중심으로 프론트엔드 개발을 하고 있습니다.
 
-### Languages & Frameworks
+## Main Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Contact
+## Activity
+
+- **ONE - 동양미래대학교 컴퓨터공학부 전공동아리** | 2022.05 ~ 
+- **외부 개발 동아리** | 2025.09 ~ 2026.05 | Frontend
 
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohot120@gmail.com)
+## Awards & Exhibition
+
+- **동양미래 EXPO** | 2025.10 | 🏆 장려상
+- **한국전자전(KES)** | 프로젝트 전시 및 시연
+- **동양미래대학교 공공데이터 활용 경진대회** | 🏆 우수상
+
+## Contact
+
+- [Email](mailto:sohot120@gmail.com)

@@ -23,4 +23,4 @@ React와 React Native를 중심으로 프론트엔드 개발을 하고 있습니
 
 ## Contact
 
-- [Email](mailto:sohot120@gmail.com)
+- email - sohot120@gmail.com

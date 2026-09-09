@@ -20,4 +20,5 @@ React와 React Native를 중심으로 프론트엔드 개발을 하고 있습니
 
 ### Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-sohot120%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohot120@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohot120@gmail.com)
